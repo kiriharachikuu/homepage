@@ -1,0 +1,70 @@
+---
+import App from "../components/app.astro";
+---
+
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>idealclover</title>
+    <meta name="description" content="翠翠的个人名片👋" />
+    <meta property="og:title" content="idealclover" />
+    <meta property="og:type" content="website" />
+    <meta property="og:description" content="翠翠的个人名片👋" />
+    <meta property="og:url" content="https://idealclover.cn" />
+    <meta property="og:image" content="icons/cover.png" />
+    <link
+      rel="preload"
+      href=`${Astro.site}/fonts/MaoKenZhuYuanTi.ttf`
+      as="font"
+      type="font/ttf"
+      crossorigin
+    />
+    <link rel="preload" href=`${Astro.site}/icons/icons.png` as="image" type="image/png" />
+    <link rel="shortcut icon" href=`${Astro.site}/favicons/favicon.ico` />
+    <link
+      rel="apple-touch-icon"
+      sizes="180x180"
+      href=`${Astro.site}/favicons/apple-touch-icon.png`
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href=`${Astro.site}/favicons/favicon-32x32.png`
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="16x16"
+      href=`${Astro.site}/favicons/favicon-16x16.png`
+    />
+    <link rel="manifest" href=`${Astro.site}/favicons/site.webmanifest` />
+    <link rel="dns-prefetch" href="//idealclover.top" />
+    <style>
+      @font-face {
+        font-family: "MaokenZhuyuanTi";
+        src: url(https://image.idealclover.cn/projects/Homepage/fonts/MaoKenZhuYuanTi.ttf?v=241202);
+        /* src: url(./fonts/MaoKenZhuYuanTi.ttf); */
+        font-display: swap;
+      }
+
+      body {
+        cursor: url(https://image.idealclover.cn/projects/Homepage/icons/cursor.ico),
+          auto;
+        font-family: "MaokenZhuyuanTi";
+        overflow-x: hidden;
+      }
+    </style>
+  </head>
+  <body class="bg-gray-100 dark:bg-neutral-900">
+    <div style="display: none">
+      <img src=`${Astro.site}/icons/cover.png` alt="" />
+    </div>
+    <App />
+    <script defer src=`${Astro.site}/libs/mouse-click.js`></script>
+    <script is:inline async src="https://www.googletagmanager.com/gtag/js?id=G-EPS8XLSB6V"></script>
+    <script is:inline>function gtag(){dataLayer.push(arguments)}window.heap=window.heap||[],heap.load=function(e,t){var r,a,n,p,o;for(window.heap.appid=e,window.heap.config=t=t||{},(r=document.createElement("script")).type="text/javascript",r.async=!0,r.src="https://cdn.heapanalytics.com/js/heap-"+e+".js",(a=document.getElementsByTagName("script")[0]).parentNode.insertBefore(r,a),n=function(e){return function(){heap.push([e].concat(Array.prototype.slice.call(arguments,0)))}},p=["addEventProperties","addUserProperties","clearEventProperties","identify","resetIdentity","removeEventProperty","setEventProperties","track","unsetEventProperty"],o=0;o<p.length;o++)heap[p[o]]=n(p[o])},heap.load("3744982711"),window.dataLayer=window.dataLayer||[],gtag("js",new Date),gtag("config","G-EPS8XLSB6V");</script>
+  </body>
+</html>
