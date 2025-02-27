@@ -1,10 +1,10 @@
 export default {
-  title: "idealclover",
+  title: "桐原知空",
   desc: "Stay simple, stay naive.",
-  imgUrl: "https://cdn.idealclover.cn/Projects/homepage/icon.png",
-  location: "Beijing, China",
+  imgUrl: "https://i0.hdslb.com/bfs/face/08ed630a7b4a7df0983d0865351849dd20e6b0ea.jpg",
+  location: "JiangXi, China",
   titleCard: {
-    title: "翠翠 @idealclover",
+    title: "知空 @KiriharaChikuu",
     desc: "商业化产品经理",
     subdesc: "独立开发者/个人博主/Vocaloid",
     url: "https://idealclover.top/about.html",
