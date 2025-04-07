@@ -107,7 +107,7 @@ export default {
     },
     {
       title: "📫 与我联系",
-    },
+    }，
   ],
   projectCardStart: {
     title: "南哪课表（Android & iOS）",
@@ -275,8 +275,8 @@ export default {
   ],
   teleCards: [
     {
-      title: "Email: kiriharachikuu@qq.com",
-      url: "mailto:kiriharachikuu@qq.com",
+      title: "Email: idealclover@163.com",
+      url: "mailto:idealclover@163.com",
       iconClass: "mail_s",
       iconInfoClass: "mail",
       textStyle: "font-normal",
@@ -284,10 +284,28 @@ export default {
         "bg-primary hover:bg-primary-focus shadow-accent hover:shadow-gray-500",
     },
     {
-      title: "QQ: 1836489179",
-      url: "http://wpa.qq.com/msgrd?v=3&uin=1836489179&site=qq&menu=yes",
+      title: "QQ: 1455169173",
+      url: "http://wpa.qq.com/msgrd?v=3&uin=1455169173&site=qq&menu=yes",
       iconClass: "QQ_s",
       iconInfoClass: "QQ",
+      textStyle: "font-normal",
+      bgStyle:
+        "bg-primary hover:bg-primary-focus shadow-accent hover:shadow-gray-500",
+    },
+    {
+      title: "Telegram: @idealclover",
+      url: "http://t.me/idealclover",
+      iconClass: "telegram_s",
+      iconInfoClass: "telegram",
+      textStyle: "font-normal",
+      bgStyle:
+        "bg-primary hover:bg-primary-focus shadow-accent hover:shadow-gray-500",
+    },
+    {
+      title: "Twitter: @idealclover",
+      url: "https://twitter.com/idealclover",
+      iconClass: "twitter_s",
+      iconInfoClass: "twitter",
       textStyle: "font-normal",
       bgStyle:
         "bg-primary hover:bg-primary-focus shadow-accent hover:shadow-gray-500",
