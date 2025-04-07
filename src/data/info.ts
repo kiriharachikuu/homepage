@@ -1,36 +1,24 @@
 export default {
-  title: "桐原知空",
-  desc: "打游戏超级菜！",
-  imgUrl: "https://www.chikuu.top/favicons/BAF916E3E61AE967B1.png",
-  location: "Jiangxi, China",
+  title: "idealclover",
+  desc: "Stay simple, stay naive.",
+  imgUrl: "https://cdn.idealclover.cn/Projects/homepage/icon.png",
+  location: "Beijing, China",
   titleCard: {
-    title: "知空 @KiriharaChikuu",
-    desc: "在互联网做个有品味的人！",
-    subdesc: "翻唱博主/Jpop/Vocaloid",
-    url: "#",
+    title: "翠翠 @idealclover",
+    desc: "商业化产品经理",
+    subdesc: "独立开发者/个人博主/Vocaloid",
+    url: "https://idealclover.top/about.html",
     bgStyle:
       "bg-primary shadow-accent hover:bg-primary-focus hover:shadow-gray-500",
     btnText: "关于我 · 了解更多",
   },
   cvTitleCard: {
-    title: "知空 @KiriharaChikuu",
-    desc: "无业游民\n翻唱博主/Jpop/Vocaloid",
+    title: "翠翠 @idealclover",
+    desc: "Project Manager @Bytedance\n产品经理/独立开发者/个人博主/Vocaloid",
     url: "https://idealclover.top/about.html",
     bgStyle:
       "bg-primary shadow-accent hover:bg-primary-focus hover:shadow-gray-500 whitespace-pre-line",
     btnText: "查看简历",
-  },
-  blogCard: {
-    title: "博客",
-    desc: "⚠建设中",
-    subdesc: "-----",
-    url: "#",
-    btnText: "还逛不了呢...",
-    bgStyle:
-      "bg-[#2C3E50] shadow-[#2C3E50]/75 hover:bg-[#2C3E50]/75 hover:shadow-[#2C3E50]",
-    textStyle: "text-white",
-    btnStyle: "bg-[#162D3B]",
-    btnTextStyle: "text-white",
   },
   blogCard: {
     title: "博客",
