@@ -109,7 +109,7 @@ export default {
       title: "📫 与我联系",
     },
   ],
-  projectCardStart: {
+    projectCardStart: {
     title: "南哪课表（Android & iOS）",
     desc: "简洁无广告的南大专属课表",
     subdesc: "累积服务 5w+ 南大同学",
@@ -229,42 +229,42 @@ export default {
   },
   musicCards: [
     {
-      title: "《回信Retter》",
-      desc: "ChiliChill五周年原创生贺曲",
-      url: "https://www.bilibili.com/video/BV1TF9pYDELQ",
-      btnText: "1477 views 🎥",
+      title: "为谁而为（原作 @COPY）",
+      desc: "青溯 version",
+      url: "https://www.bilibili.com/video/BV1cs4y1z7Mq",
+      btnText: "3065 views 🎥",
       bgStyle:
-        "bg-[url('https://img.picui.cn/free/2025/04/07/67f3adce92259.jpeg')] bg-cover bg-center shadow-accent hover:shadow-gray-500",
+        "bg-[url('https://cdn.idealclover.cn/Projects/homepage/music_1.jpg')] bg-cover bg-center shadow-accent hover:shadow-gray-500",
       textStyle: "text-white",
       btnStyle: "glass",
       btnTextStyle: "text-white capitalize",
     },
     {
-      title: "《与你共舞半生梦》",
-      desc: "半生守初心，芸芸又归一",
-      url: "https://www.bilibili.com/video/BV1FafDYcEj5",
-      btnText: "4660 views 🎥",
+      title: "我从人间走过（原作 @瞳荧荧）",
+      desc: "青溯 version",
+      url: "https://www.bilibili.com/video/BV1BF411L7AH",
+      btnText: "1670 views 🎥",
       bgStyle:
-        "bg-[url('https://img.picui.cn/free/2025/04/07/67f3add0afc2a.jpeg')] bg-cover bg-center shadow-accent hover:shadow-gray-500",
+        "bg-[url('https://cdn.idealclover.cn/Projects/homepage/music_2.jpg')] bg-cover bg-center shadow-accent hover:shadow-gray-500",
       textStyle: "text-white",
       btnStyle: "glass",
       btnTextStyle: "text-white capitalize",
     },
     {
-      title: "《衡山路宛平路》",
-      desc: "“地球很好，但我想去厚嘴唇星转转”",
-      url: "https://www.bilibili.com/video/BV14FQJYKEDv",
-      btnText: "154 views 🎥",
+      title: "千里邀月（原作 @纯白）",
+      desc: "星尘inf/青溯/沨漪 version",
+      url: "https://www.bilibili.com/video/BV11G4y1z7XZ",
+      btnText: "2087 views 🎥",
       bgStyle:
-        "bg-[url('https://img.picui.cn/free/2025/04/07/67f3add2a2e3f.png')] bg-cover bg-center shadow-accent hover:shadow-gray-500",
+        "bg-[url('https://cdn.idealclover.cn/Projects/homepage/music_3.jpg')] bg-cover bg-center shadow-accent hover:shadow-gray-500",
       textStyle: "text-white",
       btnStyle: "glass",
       btnTextStyle: "text-white capitalize",
     },
     {
-      title: "在 哔哩哔哩 查看更多创作",
-      desc: "@知空空_",
-      url: "https://space.bilibili.com/28826850",
+      title: "在 Bilibili 查看更多创作",
+      desc: "@idealclover",
+      url: "https://space.bilibili.com/5044093",
       btnText: "查看更多",
       bgStyle:
         "bg-[url('https://cdn.idealclover.cn/Projects/homepage/music_4.jpg')] bg-cover bg-center shadow-accent hover:shadow-gray-500",
@@ -275,8 +275,8 @@ export default {
   ],
   teleCards: [
     {
-      title: "Email: kiriharachikuu@qq.com",
-      url: "mailto:kiriharachikuu@qq.com",
+      title: "Email: idealclover@163.com",
+      url: "mailto:idealclover@163.com",
       iconClass: "mail_s",
       iconInfoClass: "mail",
       textStyle: "font-normal",
@@ -284,8 +284,8 @@ export default {
         "bg-primary hover:bg-primary-focus shadow-accent hover:shadow-gray-500",
     },
     {
-      title: "QQ: 1836489179",
-      url: "http://wpa.qq.com/msgrd?v=3&uin=1836489179&site=qq&menu=yes",
+      title: "QQ: 1455169173",
+      url: "http://wpa.qq.com/msgrd?v=3&uin=1455169173&site=qq&menu=yes",
       iconClass: "QQ_s",
       iconInfoClass: "QQ",
       textStyle: "font-normal",
