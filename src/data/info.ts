@@ -1,20 +1,20 @@
 export default {
-  title: "桐原知空",
-  desc: "打游戏超级菜！",
-  imgUrl: "./favicons/BAF916E3E61AE967B1.png",
-  location: "Jiangxi, China",
+  title: "idealclover",
+  desc: "Stay simple, stay naive.",
+  imgUrl: "https://cdn.idealclover.cn/Projects/homepage/icon.png",
+  location: "Beijing, China",
   titleCard: {
-    title: "知空 @KiriharaChikuu",
-    desc: "在互联网做个有品味的人！",
-    subdesc: "翻唱博主/Jpop/Vocaloid",
-    url: "#",
+    title: "翠翠 @idealclover",
+    desc: "商业化产品经理",
+    subdesc: "独立开发者/个人博主/Vocaloid",
+    url: "https://idealclover.top/about.html",
     bgStyle:
       "bg-primary shadow-accent hover:bg-primary-focus hover:shadow-gray-500",
     btnText: "关于我 · 了解更多",
   },
   cvTitleCard: {
-    title: "知空 @KiriharaChikuu",
-    desc: "无业游民\n翻唱博主/Jpop/Vocaloid",
+    title: "翠翠 @idealclover",
+    desc: "Project Manager @Bytedance\n产品经理/独立开发者/个人博主/Vocaloid",
     url: "https://idealclover.top/about.html",
     bgStyle:
       "bg-primary shadow-accent hover:bg-primary-focus hover:shadow-gray-500 whitespace-pre-line",
@@ -22,10 +22,10 @@ export default {
   },
   blogCard: {
     title: "博客",
-    desc: "⚠建设中",
-    subdesc: "-----",
-    url: "#",
-    btnText: "还逛不了呢...",
+    desc: "记录技术/生活/随想/测评",
+    subdesc: "https://idealclover.top",
+    url: "https://idealclover.top/articles.html",
+    btnText: "去逛逛 · 历史文章",
     bgStyle:
       "bg-[#2C3E50] shadow-[#2C3E50]/75 hover:bg-[#2C3E50]/75 hover:shadow-[#2C3E50]",
     textStyle: "text-white",
@@ -56,18 +56,18 @@ export default {
   ],
   primaryCards: [
     {
-      title: "微博",
-      url: "https://weibo.com/u/5574382615",
+      title: "知乎",
+      url: "https://www.zhihu.com/people/cuicuijiang",
       bgStyle:
         "bg-[#0275D2] shadow-[#0275D2]/75 hover:bg-[#0275D2]/75 hover:shadow-[#0275D2]",
-      btnText: "Loading...",
+      btnText: "2879 Followers",
       textStyle: "text-white",
       btnStyle: "zhihu text-white",
     },
     {
       title: "Bilibili",
-      url: "https://space.bilibili.com/28826850",
-      btnText: "Loading...",
+      url: "https://space.bilibili.com/5044093",
+      btnText: "1634 Followers",
       bgStyle:
         "bg-[#FB7299] shadow-[#FB7299]/75 hover:bg-[#FB7299]/75 hover:shadow-[#FB7299]",
       btnStyle: "bili text-white",
@@ -75,8 +75,8 @@ export default {
     },
     {
       title: "GitHub",
-      url: "https://github.com/kiriharachikuu",
-      btnText: "Loading...",
+      url: "https://github.com/idealclover",
+      btnText: "752 Followers",
       bgStyle:
         "bg-[#181717] shadow-[#181717]/75 hover:bg-[#181717]/75 hover:shadow-[#181717]",
       btnStyle: "github text-white",
@@ -84,8 +84,8 @@ export default {
     },
     {
       title: "网易云",
-      url: "https://music.163.com/#/artist?id=34407615",
-      btnText: "Loading...",
+      url: "https://music.163.com/#/artist?id=52267156",
+      btnText: "77 Followers",
       bgStyle:
         "bg-[#C20B0D] shadow-[#C20B0D]/75 hover:bg-[#C20B0D]/75 hover:shadow-[#C20B0D]",
       btnStyle: "netease text-white",
@@ -103,7 +103,7 @@ export default {
       title: "🎼 音乐创作",
     },
     {
-      title: "👋 关注知空",
+      title: "👋 关注翠翠",
     },
     {
       title: "📫 与我联系",
@@ -229,42 +229,42 @@ export default {
   },
   musicCards: [
     {
-      title: "《回信Retter》",
-      desc: "ChiliChill五周年原创生贺曲",
-      url: "https://www.bilibili.com/video/BV1TF9pYDELQ",
-      btnText: "1477 views 🎥",
+      title: "为谁而为（原作 @COPY）",
+      desc: "青溯 version",
+      url: "https://www.bilibili.com/video/BV1cs4y1z7Mq",
+      btnText: "3065 views 🎥",
       bgStyle:
-        "bg-[url('https://img.picui.cn/free/2025/04/07/67f3adce92259.jpeg')] bg-cover bg-center shadow-accent hover:shadow-gray-500",
+        "bg-[url('https://cdn.idealclover.cn/Projects/homepage/music_1.jpg')] bg-cover bg-center shadow-accent hover:shadow-gray-500",
       textStyle: "text-white",
       btnStyle: "glass",
       btnTextStyle: "text-white capitalize",
     },
     {
-      title: "《与你共舞半生梦》",
-      desc: "半生守初心，芸芸又归一",
-      url: "https://www.bilibili.com/video/BV1FafDYcEj5",
-      btnText: "4660 views 🎥",
+      title: "我从人间走过（原作 @瞳荧荧）",
+      desc: "青溯 version",
+      url: "https://www.bilibili.com/video/BV1BF411L7AH",
+      btnText: "1670 views 🎥",
       bgStyle:
-        "bg-[url('https://img.picui.cn/free/2025/04/07/67f3add0afc2a.jpeg')] bg-cover bg-center shadow-accent hover:shadow-gray-500",
+        "bg-[url('https://cdn.idealclover.cn/Projects/homepage/music_2.jpg')] bg-cover bg-center shadow-accent hover:shadow-gray-500",
       textStyle: "text-white",
       btnStyle: "glass",
       btnTextStyle: "text-white capitalize",
     },
     {
-      title: "《衡山路宛平路》",
-      desc: "“地球很好，但我想去厚嘴唇星转转”",
-      url: "https://www.bilibili.com/video/BV14FQJYKEDv",
-      btnText: "154 views 🎥",
+      title: "千里邀月（原作 @纯白）",
+      desc: "星尘inf/青溯/沨漪 version",
+      url: "https://www.bilibili.com/video/BV11G4y1z7XZ",
+      btnText: "2087 views 🎥",
       bgStyle:
-        "bg-[url('https://img.picui.cn/free/2025/04/07/67f3add2a2e3f.png')] bg-cover bg-center shadow-accent hover:shadow-gray-500",
+        "bg-[url('https://cdn.idealclover.cn/Projects/homepage/music_3.jpg')] bg-cover bg-center shadow-accent hover:shadow-gray-500",
       textStyle: "text-white",
       btnStyle: "glass",
       btnTextStyle: "text-white capitalize",
     },
     {
-      title: "在 哔哩哔哩 查看更多创作",
-      desc: "@知空空_",
-      url: "https://space.bilibili.com/28826850",
+      title: "在 Bilibili 查看更多创作",
+      desc: "@idealclover",
+      url: "https://space.bilibili.com/5044093",
       btnText: "查看更多",
       bgStyle:
         "bg-[url('https://cdn.idealclover.cn/Projects/homepage/music_4.jpg')] bg-cover bg-center shadow-accent hover:shadow-gray-500",
@@ -275,8 +275,8 @@ export default {
   ],
   teleCards: [
     {
-      title: "Email: kiriharachikuu@qq.com",
-      url: "mailto:kiriharachikuu@qq.com",
+      title: "Email: idealclover@163.com",
+      url: "mailto:idealclover@163.com",
       iconClass: "mail_s",
       iconInfoClass: "mail",
       textStyle: "font-normal",
@@ -284,10 +284,28 @@ export default {
         "bg-primary hover:bg-primary-focus shadow-accent hover:shadow-gray-500",
     },
     {
-      title: "QQ: 1836489179",
-      url: "http://wpa.qq.com/msgrd?v=3&uin=1836489179&site=qq&menu=yes",
+      title: "QQ: 1455169173",
+      url: "http://wpa.qq.com/msgrd?v=3&uin=1455169173&site=qq&menu=yes",
       iconClass: "QQ_s",
       iconInfoClass: "QQ",
+      textStyle: "font-normal",
+      bgStyle:
+        "bg-primary hover:bg-primary-focus shadow-accent hover:shadow-gray-500",
+    },
+    {
+      title: "Telegram: @idealclover",
+      url: "http://t.me/idealclover",
+      iconClass: "telegram_s",
+      iconInfoClass: "telegram",
+      textStyle: "font-normal",
+      bgStyle:
+        "bg-primary hover:bg-primary-focus shadow-accent hover:shadow-gray-500",
+    },
+    {
+      title: "Twitter: @idealclover",
+      url: "https://twitter.com/idealclover",
+      iconClass: "twitter_s",
+      iconInfoClass: "twitter",
       textStyle: "font-normal",
       bgStyle:
         "bg-primary hover:bg-primary-focus shadow-accent hover:shadow-gray-500",

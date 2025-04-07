@@ -1,22 +1,18 @@
 export default [
   {
     className: "zhihu",
-    updateUrl: "https://api.swo.moe/stats/weibo/5574382615",
+    updateUrl: "https://api.swo.moe/stats/zhihu/cuicuijiang",
   },
   {
     className: "bili",
-    updateUrl: "https://bili-count-api.chikuu.top/api/count?vmid=28826850",
+    updateUrl: "https://api.swo.moe/stats/bilibili/5044093",
   },
   {
     className: "github",
-    updateUrl: "https://api.swo.moe/stats/github/kiriharachikuu",
+    updateUrl: "https://api.swo.moe/stats/github/idealclover",
   },
   {
     className: "netease",
-    updateUrl: "https://api.swo.moe/stats/neteasemusic/379188047",
-  },
-  {
-    className: "weibo",
-    updateUrl: "https://api.swo.moe/stats/weibo/5574382615",
+    updateUrl: "https://api.swo.moe/stats/neteasemusic/78983390",
   },
 ];
