@@ -229,12 +229,12 @@ export default {
   },
  musicCards: [
     {
-      title: "为谁而为（原作 @COPY）",
-      desc: "青溯 version",
-      url: "https://www.bilibili.com/video/BV1cs4y1z7Mq",
-      btnText: "3065 views 🎥",
+      title: "回信Retter",
+      desc: "ChiliChill五周年原创生贺曲",
+      url: "https://www.bilibili.com/video/BV1TF9pYDELQ",
+      btnText: "1477 views 🎥",
       bgStyle:
-        "bg-[url('https://cdn.idealclover.cn/Projects/homepage/music_1.jpg')] bg-cover bg-center shadow-accent hover:shadow-gray-500",
+        "bg-[url('https://img.picui.cn/free/2025/04/07/67f3adce92259.jpeg')] bg-cover bg-center shadow-accent hover:shadow-gray-500",
       textStyle: "text-white",
       btnStyle: "glass",
       btnTextStyle: "text-white capitalize",
