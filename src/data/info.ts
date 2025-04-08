@@ -234,7 +234,7 @@ export default {
       url: "https://www.bilibili.com/video/BV1TF9pYDELQ",
       btnText: "3065 views 🎥",
       bgStyle:
-        "bg-[url('https://www.chikuu.top/images/28688712559.jpg')] bg-cover bg-center shadow-accent hover:shadow-gray-500",
+        "bg-[url('https://cdn.idealclover.cn/Projects/homepage/music_1.jpg')] bg-cover bg-center shadow-accent hover:shadow-gray-500",
       textStyle: "text-white",
       btnStyle: "glass",
       btnTextStyle: "text-white capitalize",
