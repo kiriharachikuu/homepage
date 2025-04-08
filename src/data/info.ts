@@ -232,9 +232,9 @@ export default {
       title: "回信Retter",
       desc: "ChiliChill五周年原创生贺曲",
       url: "https://www.bilibili.com/video/BV1TF9pYDELQ",
-      btnText: "1477 views 🎥",
+      btnText: "3065 views 🎥",
       bgStyle:
-        "bg-[url('https://img.picui.cn/free/2025/04/07/67f3adce92259.jpeg')] bg-cover bg-center shadow-accent hover:shadow-gray-500",
+        "bg-[url('https://cdn.idealclover.cn/Projects/homepage/music_1.jpg')] bg-cover bg-center shadow-accent hover:shadow-gray-500",
       textStyle: "text-white",
       btnStyle: "glass",
       btnTextStyle: "text-white capitalize",
